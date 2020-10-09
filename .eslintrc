@@ -1,10 +1,10 @@
 {
     "parserOptions": {
-        "ecmaVersion": 6,
+        "ecmaVersion": 2,
         "sourceType": "module"
     },
     "env": {
-        "es6": true
+        "es6": false
     },
     "rules": {
         "semi": [2, "never"]
